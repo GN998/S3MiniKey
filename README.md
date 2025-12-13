@@ -50,7 +50,7 @@ ESP32-S3 SuperMini development board
 
 
 
-C to C adapter (length 27.5 mm)
+C to C adapter (length 28 mm)
 
 
 
