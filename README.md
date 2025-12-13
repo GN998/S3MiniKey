@@ -29,7 +29,9 @@ Ready to Print: The repository includes an optimized .STL file, ready for immedi
 Recommended Material: It is recommended to use photocuring resin (v2) for printing.
 
 
-<img width="1421" height="797" alt="image" src="https://github.com/user-attachments/assets/a60d3e80-d037-432f-b8df-f12aaa237c38" />
+<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/a60d3e80-d037-432f-b8df-f12aaa237c38" />
+<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/decf7b0d-bc7b-4a20-8eb1-11565b968739" />
+
 
 
 
