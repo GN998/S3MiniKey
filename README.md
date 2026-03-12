@@ -26,11 +26,12 @@ Ready to Print: The repository includes an optimized .STL file, ready for immedi
 
 
 
-Recommended Material: It is recommended to use photocuring resin (v2) for printing.
+Recommended Material: It is recommended to use photocuring resin (v2.1) for printing.
 
 
 <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/a60d3e80-d037-432f-b8df-f12aaa237c38" />
 <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/decf7b0d-bc7b-4a20-8eb1-11565b968739" />
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/939c9a2b-7aeb-450a-b016-5e90cfdf46f2" />
 
 
 
@@ -50,7 +51,13 @@ ESP32-S3 SuperMini development board
 
 
 
-C to C adapter (length 28 mm)
+USB-C to USB-C Adapter
+
+Length: 28mm (Critical dimension)
+
+Max Width: 8.4mm
+
+Note: Please verify the exact length before use/assembly.
 
 
 
